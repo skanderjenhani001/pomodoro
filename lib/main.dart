@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:pomodoro/core/app_router.dart';
-import 'package:pomodoro/core/app_themes.dart';
+import 'package:pomodoro/core/utils/app_router.dart';
+import 'package:pomodoro/core/utils/app_themes.dart';
 
 void main() {
   runApp(const PomodoroApp());
